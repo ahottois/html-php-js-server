@@ -26,7 +26,7 @@
 
 1. Clonez ce dépôt sur votre serveur :
    ```bash
-   git clone https://github.com/votre-username/easylamp.git
+   git clone https://github.com/ahottois/html-php-js-server.git
    cd easylamp
    ```
 
