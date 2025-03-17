@@ -27,17 +27,17 @@
 1. Clonez ce dépôt sur votre serveur :
    ```bash
    git clone https://github.com/ahottois/html-php-js-server.git
-   cd easylamp
+   cd html-php-js-server
    ```
 
 2. Rendez le script exécutable :
    ```bash
-   chmod +x lamp-server-setup.sh
+   chmod +x install.sh
    ```
 
 3. Exécutez le script avec les privilèges d'administrateur :
    ```bash
-   sudo ./lamp-server-setup.sh
+   sudo ./install.sh
    ```
 
 4. Suivez les instructions à l'écran. L'installation est entièrement automatisée !
